@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2023/01/05/C++%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/"/>
+    <url>/2023/01/05/C++%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/</url>
+    
+    <content type="html"><![CDATA[<h1 id="C-课程安排"><a href="#C-课程安排" class="headerlink" title="C++课程安排"></a>C++课程安排</h1><ul><li>明确C++课程学习阶段以及课程内容</li></ul><table><thead><tr><th>阶段</th><th>内容</th><th>目标</th><th>案例</th></tr></thead><tbody><tr><td>第一阶段</td><td>C++基础语法入门</td><td>对C++有初步了解，能够有基础编程能力</td><td>通讯录管理系统</td></tr><tr><td>第二阶段</td><td>C++核心编程</td><td>介绍C++面向对象编程，为大型项目做铺垫</td><td>职工管理系统</td></tr><tr><td>第三阶段</td><td>C++提高编程</td><td>介绍C++泛型编程思想，以及STL的基本使用</td><td>演讲比赛系统</td></tr></tbody></table><ul><li>综合大案例：机房预约系统</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/01/04/hello-world/"/>
     <url>/2023/01/04/hello-world/</url>
